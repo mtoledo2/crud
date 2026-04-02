@@ -77,7 +77,6 @@ Abra o arquivo `cadastro-usuarios/index.html` no navegador para acessar o fronte
 - [ ] Deploy do frontend (Vercel)
 - [ ] Validação de campos no frontend e no backend
 - [ ] Autenticação com JWT
-- [ ] Migrar frontend para React
 
 ## Autor
 
